@@ -1,0 +1,1 @@
+git checkout  <commit_id> -- <file>

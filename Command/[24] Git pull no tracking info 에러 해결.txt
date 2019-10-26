@@ -1,0 +1,1 @@
+git branch — set-upstream-to=remote_path/branch_name

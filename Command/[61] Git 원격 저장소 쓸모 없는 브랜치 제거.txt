@@ -1,0 +1,1 @@
+git remote prune <원격 저장소>

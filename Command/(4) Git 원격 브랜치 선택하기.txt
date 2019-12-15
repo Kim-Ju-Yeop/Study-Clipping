@@ -1,0 +1,1 @@
+git checkout -t remote_path/branch_name

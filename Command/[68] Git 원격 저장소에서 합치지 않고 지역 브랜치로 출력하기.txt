@@ -1,0 +1,1 @@
+git fetch extend <원격 저장소>

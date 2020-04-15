@@ -1,1 +1,0 @@
-git pull [remote명] [branch명]

@@ -1,1 +1,0 @@
-git tag -a <tag명> -m '[tag message]'

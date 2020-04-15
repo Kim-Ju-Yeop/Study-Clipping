@@ -1,1 +1,0 @@
-git branch -m branch_name change_branch_name

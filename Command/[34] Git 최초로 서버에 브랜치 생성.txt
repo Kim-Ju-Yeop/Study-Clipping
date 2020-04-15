@@ -1,1 +1,0 @@
-git push <remote명> <local branch>:<remote branch>

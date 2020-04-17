@@ -7,5 +7,9 @@ This is the space where I share the documents I referred to when I studied progr
 - [REST API HTTP 상태 코드](https://mygumi.tistory.com/230)
 
 ### 동기와 비동기
-- [동기와 비동기의 개념고 차이](https://private.tistory.com/24)
+- [동기와 비동기의 개념과 차이](https://private.tistory.com/24)
 - [동기식 처리 모델과 비동기식 처리 모델](https://webclub.tistory.com/605)
+
+### 프레임워크와 라이브러리
+- [프레임워크와 라이브러리의 차이점](https://webclub.tistory.com/458)
+- [프레임워크와 라이브러리의 비유](https://okky.kr/article/549983)

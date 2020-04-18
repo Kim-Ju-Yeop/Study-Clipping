@@ -10,3 +10,8 @@
 ### 프레임워크와 라이브러리
 - [프레임워크와 라이브러리의 차이점](https://webclub.tistory.com/458)
 - [프레임워크와 라이브러리의 비유](https://okky.kr/article/549983)
+
+## 프로그래밍 라이브러리
+### Butter Knife
+- [JakeWharton Butter Knife](https://jakewharton.github.io/butterknife/)
+- [유용하 라이브러리 Butter Knife](https://gun0912.tistory.com/2)

@@ -15,3 +15,7 @@
 ### Butter Knife
 - [JakeWharton Butter Knife](https://jakewharton.github.io/butterknife/)
 - [유용한 라이브러리 Butter Knife](https://gun0912.tistory.com/2)
+
+### DataBinding
+- [Goodbye 버터나이프 Hello 데이터 바인딩](https://gun0912.tistory.com/71)
+- [Android 데이터 바인딩 사용하기](https://superwony.tistory.com/42)

@@ -19,3 +19,7 @@
 ### DataBinding
 - [Goodbye 버터나이프 Hello 데이터 바인딩](https://gun0912.tistory.com/71)
 - [Android 데이터 바인딩 사용하기](https://superwony.tistory.com/42)
+
+### ViewModel & LiveData
+- [LiveData 개요 및 활용](https://developer.android.com/topic/libraries/architecture/livedata?hl=ko)
+- [LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)

@@ -23,3 +23,7 @@
 ### ViewModel & LiveData
 - [LiveData 개요 및 활용](https://developer.android.com/topic/libraries/architecture/livedata?hl=ko)
 - [LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)
+
+### TedPermission
+- [TedPermission 사용하기](https://gun0912.tistory.com/61)
+- [TedPermission 깃허브 오픈소스](https://github.com/ParkSangGwon/TedPermission)

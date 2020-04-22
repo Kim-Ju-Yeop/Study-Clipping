@@ -28,6 +28,10 @@
 - [TedPermission 사용하기](https://gun0912.tistory.com/61)
 - [TedPermission 깃허브 오픈소스](https://github.com/ParkSangGwon/TedPermission)
 
+### Dagger2
+- [Dagger2 알아보자](https://www.charlezz.com/?p=1259)
+- [DI 기본 개념과 Dagger2 사용 예제](https://black-jin0427.tistory.com/104)
+
 # 3. 유용한 기술 블로그
 - [박상권의 삽질 블로그](https://gun0912.tistory.com)
 - [정상에서 IT를 외치다](https://black-jin0427.tistory.com)

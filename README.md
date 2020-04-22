@@ -35,4 +35,5 @@
 # 3. 유용한 기술 블로그
 - [박상권의 삽질 블로그](https://gun0912.tistory.com)
 - [정상에서 IT를 외치다](https://black-jin0427.tistory.com)
+- [찰스의 안드로이드](https://www.charlezz.com)
 

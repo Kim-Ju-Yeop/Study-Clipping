@@ -36,9 +36,13 @@
 - [Dagger2 알아보자](https://www.charlezz.com/?p=1259)
 - [DI 기본 개념과 Dagger2 사용 예제](https://black-jin0427.tistory.com/104)
 
+### Retrofit2
+- [Retrofit2 공식 문서](https://square.github.io/retrofit/)
+- [안드로이드 Retrofit2 사용 예제](https://altongmon.tistory.com/745)
+
 # 3. 유용한 기술 블로그
+- [코드뭉치](https://poqw.github.io)
+- [IOS를 Java](https://altongmon.tistory.com/location)
+- [찰스의 안드로이드](https://www.charlezz.com)
 - [박상권의 삽질 블로그](https://gun0912.tistory.com)
 - [정상에서 IT를 외치다](https://black-jin0427.tistory.com)
-- [찰스의 안드로이드](https://www.charlezz.com)
-- [코드뭉치](https://poqw.github.io)
-

@@ -40,7 +40,12 @@
 - [Retrofit2 공식 문서](https://square.github.io/retrofit/)
 - [안드로이드 Retrofit2 사용 예제](https://altongmon.tistory.com/745)
 
-# 3. 유용한 기술 블로그
+# 3. 프로그래밍 아키텍처
+### Clean Architecture
+- [안드로이드에 Clean Architecture 적용하기](https://academy.realm.io/kr/posts/clean-architecture-in-android/)
+- [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
+
+# 4. 유용한 기술 블로그
 - [코드뭉치](https://poqw.github.io)
 - [IOS를 Java](https://altongmon.tistory.com/location)
 - [찰스의 안드로이드](https://www.charlezz.com)

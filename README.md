@@ -40,6 +40,10 @@
 - [Retrofit2 공식 문서](https://square.github.io/retrofit/)
 - [안드로이드 Retrofit2 사용 예제](https://altongmon.tistory.com/745)
 
+### Koin
+- [Koin 정리하기](https://jungwoon.github.io/android/2019/08/21/Koin/)
+- [코인을 활용한 의존성 주입 예제](https://altongmon.tistory.com/745)
+
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture
 - [안드로이드에 Clean Architecture 적용하기](https://academy.realm.io/kr/posts/clean-architecture-in-android/)

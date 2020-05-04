@@ -54,9 +54,13 @@
 - [안드로이드 MVVM 디자인 패턴](https://beomseok95.tistory.com/131)
 
 # 4. 유용한 기술 블로그
+### 개인 블로그
 - [코드뭉치](https://poqw.github.io)
 - [IOS를 Java](https://altongmon.tistory.com/location)
 - [찰스의 안드로이드](https://www.charlezz.com)
 - [박상권의 삽질 블로그](https://gun0912.tistory.com)
 - [정상에서 IT를 외치다](https://black-jin0427.tistory.com)
 - [범석의 안드로이드 메모장](https://beomseok95.tistory.com/)
+
+### IT 기업 블로그
+- [우아한형제들 기술 블로그](https://woowabros.github.io)

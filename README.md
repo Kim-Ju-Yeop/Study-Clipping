@@ -42,7 +42,7 @@
 
 ### Koin
 - [Koin 정리하기](https://jungwoon.github.io/android/2019/08/21/Koin/)
-- [코인을 활용한 의존성 주입 예제](https://altongmon.tistory.com/745)
+- [코인을 활용한 의존성 주입 예제](https://woovictory.github.io/2019/05/08/Android-koin/)
 
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture

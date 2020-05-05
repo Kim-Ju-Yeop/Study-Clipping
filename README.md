@@ -60,6 +60,7 @@
 - [찰스의 안드로이드](https://www.charlezz.com)
 - [박상권의 삽질 블로그](https://gun0912.tistory.com)
 - [정상에서 IT를 외치다](https://black-jin0427.tistory.com)
+- [VictoryWoo's Blog](https://woovictory.github.io)
 - [범석의 안드로이드 메모장](https://beomseok95.tistory.com/)
 
 ### IT 기업 블로그

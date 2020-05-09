@@ -65,3 +65,4 @@
 
 ### IT 기업 블로그
 - [우아한형제들 기술 블로그](https://woowabros.github.io)
+- [Kakao Tech](https://tech.kakao.com)

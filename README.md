@@ -66,3 +66,6 @@
 ### IT 기업 블로그
 - [우아한형제들 기술 블로그](https://woowabros.github.io)
 - [Kakao Tech](https://tech.kakao.com)
+- [당근마켓 팀블로그](https://medium.com/daangn)
+
+### 개인 블로그

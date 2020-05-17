@@ -65,6 +65,7 @@
 
 ### IT 기업 블로그
 - [당근마켓 팀블로그](https://medium.com/daangn)
+- [Spoqa 기술 블로그](https://spoqa.github.io)
 - [Kakao Tech Blog](https://tech.kakao.com/blog/)
 - [우아한형제들 기술 블로그](https://woowabros.github.io)
 - [LINE ENGINERRING Blog](https://engineering.linecorp.com/ko/blog/)

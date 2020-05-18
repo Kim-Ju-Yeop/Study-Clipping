@@ -65,6 +65,7 @@
 
 ### IT 기업 블로그
 - [당근마켓 팀블로그](https://medium.com/daangn)
+- [NAVER D2 블로그](https://d2.naver.com/home)
 - [Spoqa 기술 블로그](https://spoqa.github.io)
 - [Kakao Tech Blog](https://tech.kakao.com/blog/)
 - [우아한형제들 기술 블로그](https://woowabros.github.io)

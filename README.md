@@ -68,5 +68,6 @@
 - [NAVER D2 블로그](https://d2.naver.com/home)
 - [Spoqa 기술 블로그](https://spoqa.github.io)
 - [Kakao Tech Blog](https://tech.kakao.com/blog/)
+- [Netflix TechBlog](https://netflixtechblog.com)
 - [우아한형제들 기술 블로그](https://woowabros.github.io)
 - [LINE ENGINERRING Blog](https://engineering.linecorp.com/ko/blog/)

@@ -63,6 +63,7 @@
 - [정상에서 IT를 외치다](https://black-jin0427.tistory.com)
 - [VictoryWoo's Blog](https://woovictory.github.io)
 - [범석의 안드로이드 메모장](https://beomseok95.tistory.com/)
+- [막내의 막무가내 프로그래밍](https://youngest-programming.tistory.com)
 
 ### IT 기업 블로그
 - [당근마켓 팀블로그](https://medium.com/daangn)

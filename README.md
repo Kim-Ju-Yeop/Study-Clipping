@@ -44,6 +44,10 @@
 - [Koin 정리하기](https://jungwoon.github.io/android/2019/08/21/Koin/)
 - [코인을 활용한 의존성 주입 예제](https://woovictory.github.io/2019/05/08/Android-koin/)
 
+### Room
+- [Room 라이브러리 사용하기](https://namget.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ROOM-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4)
+- [Room 라이브러리 사용 예제](https://black-jin0427.tistory.com/53)
+
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture
 - [안드로이드에 Clean Architecture 적용하기](https://academy.realm.io/kr/posts/clean-architecture-in-android/)

@@ -29,8 +29,8 @@
 - [Android Architecture Component - ViewModel + LiveData + DataBinding](https://youtu.be/Y-uPcwBEEV4)
 
 ### TedPermission
-- [TedPermission 라이브러리 소개](https://gun0912.tistory.com/61)
 - [TedPermission 깃허브 오픈소스](https://github.com/ParkSangGwon/TedPermission)
+- [TedPermission(마시멜로우 권한체크)](https://gun0912.tistory.com/61)
 
 ### Dagger2
 - [Dagger2를 알아보자 – 기본편](https://www.charlezz.com/?p=1259)

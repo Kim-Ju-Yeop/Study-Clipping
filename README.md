@@ -17,36 +17,36 @@
 
 # 2. 프로그래밍 라이브러리
 ### Butter Knife
-- [JakeWharton Butter Knife](https://jakewharton.github.io/butterknife/)
-- [유용한 라이브러리 Butter Knife](https://gun0912.tistory.com/2)
+- [Butter Knife (View Inject)](https://gun0912.tistory.com/2)
+- [라이브러리 버터나이프 기본적인 사용법](https://roqkfwk.tistory.com/16)
 
 ### DataBinding
-- [Goodbye 버터나이프 Hello 데이터 바인딩](https://gun0912.tistory.com/71)
-- [Android 데이터 바인딩 사용하기](https://superwony.tistory.com/42)
+- [Goodbye 버터나이프 Hello 데이터바인딩](https://gun0912.tistory.com/71)
+- [[안드로이드/Android] 데이터 바인딩 사용하기[1/2]](https://superwony.tistory.com/42)
 
 ### ViewModel & LiveData
-- [LiveData 개요 및 활용](https://developer.android.com/topic/libraries/architecture/livedata?hl=ko)
-- [LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)
+- [[Android] LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)
+- [Android Architecture Component - ViewModel + LiveData + DataBinding](https://youtu.be/Y-uPcwBEEV4)
 
 ### TedPermission
-- [TedPermission 사용하기](https://gun0912.tistory.com/61)
+- [TedPermission 라이브러리 소개](https://gun0912.tistory.com/61)
 - [TedPermission 깃허브 오픈소스](https://github.com/ParkSangGwon/TedPermission)
 
 ### Dagger2
-- [Dagger2 알아보자](https://www.charlezz.com/?p=1259)
-- [DI 기본 개념과 Dagger2 사용 예제](https://black-jin0427.tistory.com/104)
+- [Dagger2를 알아보자 – 기본편](https://www.charlezz.com/?p=1259)
+- [[Android, Dagger2] DI 기본 개념과 Dagger2 사용 예제](https://black-jin0427.tistory.com/104)
 
 ### Retrofit2
-- [Retrofit2 공식 문서](https://square.github.io/retrofit/)
-- [안드로이드 Retrofit2 사용 예제](https://altongmon.tistory.com/745)
+- [Retrofit2 정리하기](https://jungwoon.github.io/android/2019/07/11/Retrofit/)
+- [안드로이드 Retrofit2 사용 예제. GET, POST, PUT, PATCH, DELETE](https://altongmon.tistory.com/745)
 
 ### Koin
 - [Koin 정리하기](https://jungwoon.github.io/android/2019/08/21/Koin/)
-- [코인을 활용한 의존성 주입 예제](https://woovictory.github.io/2019/05/08/Android-koin/)
+- [[안드로이드] koin part.1](https://woovictory.github.io/2019/05/08/Android-koin/)
 
 ### Room
-- [Room 라이브러리 사용하기](https://namget.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ROOM-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4)
-- [Room 라이브러리 사용 예제](https://black-jin0427.tistory.com/53)
+- [[안드로이드] ROOM 라이브러리 사용하기 , 코루틴](https://namget.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ROOM-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4)
+- [[Android Architecture Component] Room 라이브러리 사용하기](https://black-jin0427.tistory.com/53)
 
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture

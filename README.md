@@ -63,6 +63,7 @@
 - [코딩팩토리](https://coding-factory.tistory.com/271)
 - [IOS를 Java](https://altongmon.tistory.com/location)
 - [찰스의 안드로이드](https://www.charlezz.com)
+- [Jungwoon Blog](https://jungwoon.github.io)
 - [박상권의 삽질 블로그](https://gun0912.tistory.com)
 - [정상에서 IT를 외치다](https://black-jin0427.tistory.com)
 - [VictoryWoo's Blog](https://woovictory.github.io)

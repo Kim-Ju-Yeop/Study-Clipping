@@ -8,7 +8,7 @@
 - [동기식 처리 모델 vs 비동기식 처리 모델](https://webclub.tistory.com/605)
 
 ### 프레임워크와 라이브러리
-- [Framework Vs Library](https://webclub.tistory.com/458)
+- [Framework vs Library](https://webclub.tistory.com/458)
 - [프레임워크와 라이브러리의 차이점](https://okky.kr/article/549983)
 
 ### Dependency Injection
@@ -50,12 +50,12 @@
 
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture
-- [안드로이드에 Clean Architecture 적용하기](https://academy.realm.io/kr/posts/clean-architecture-in-android/)
 - [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
+- [안드로이드에 Clean Architecture 적용하기](https://academy.realm.io/kr/posts/clean-architecture-in-android/)
 
 ### MVVM Architecture
-- [MVVM & 안드로이드 아키텍처 컴포넌트 시작하기](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
 - [안드로이드 MVVM 디자인 패턴](https://beomseok95.tistory.com/131)
+- [[Android] MVVM & 안드로이드 아키텍처 컴포넌트 시작하기](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
 
 # 4. 유용한 기술 블로그
 ### 개인 블로그
@@ -73,9 +73,9 @@
 ### IT 기업 블로그
 - [당근마켓 팀블로그](https://medium.com/daangn)
 - [NAVER D2 블로그](https://d2.naver.com/home)
-- [Spoqa 기술 블로그](https://spoqa.github.io)
-- [피플펀드 기술 블로그](https://tech.peoplefund.co.kr)
 - [Kakao Tech Blog](https://tech.kakao.com/blog/)
 - [Netflix TechBlog](https://netflixtechblog.com)
+- [Spoqa 기술 블로그](https://spoqa.github.io)
+- [피플펀드 기술 블로그](https://tech.peoplefund.co.kr)
 - [우아한형제들 기술 블로그](https://woowabros.github.io)
 - [LINE ENGINERRING Blog](https://engineering.linecorp.com/ko/blog/)

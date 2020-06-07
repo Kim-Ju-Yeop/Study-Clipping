@@ -57,7 +57,12 @@
 - [안드로이드 MVVM 디자인 패턴](https://beomseok95.tistory.com/131)
 - [[Android] MVVM & 안드로이드 아키텍처 컴포넌트 시작하기](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
 
-# 4. 유용한 기술 블로그
+# 4. 프로그래밍 도서
+### C 프로그래밍
+- [Do it C언어 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187370703&orderClick=LEa&Kc=)
+- [윤성우의 열혈 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788996094050&orderClick=LEa&Kc=)
+
+# 5. 유용한 기술 블로그
 ### 개인 블로그
 - [코드뭉치](https://poqw.github.io)
 - [코딩팩토리](https://coding-factory.tistory.com/271)

@@ -62,6 +62,10 @@
 - [Do it C언어 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187370703&orderClick=LEa&Kc=)
 - [윤성우의 열혈 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788996094050&orderClick=LEa&Kc=)
 
+### Java 프로그래밍
+- [이것이 자바다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481475&orderClick=LEa&Kc=)
+- [Do it 자바 프로그래밍 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030195&orderClick=LEa&Kc=)
+
 # 5. 유용한 기술 블로그
 ### 개인 블로그
 - [코드뭉치](https://poqw.github.io)

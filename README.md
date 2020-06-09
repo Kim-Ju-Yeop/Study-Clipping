@@ -66,6 +66,11 @@
 - [이것이 자바다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481475&orderClick=LEa&Kc=)
 - [Do it 자바 프로그래밍 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030195&orderClick=LEa&Kc=)
 
+# 5. 프로그래밍 개발 환경
+### iterm2 터미널
+- [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)
+- [iTerm2와 zsh로 깔끔한 Mac 터미널 환경 만들기](https://tutorialpost.apptilus.com/code/posts/tools/mac-cli-with-iterm2-zsh/)
+
 # 5. 유용한 기술 블로그
 ### 개인 블로그
 - [코드뭉치](https://poqw.github.io)

@@ -66,6 +66,10 @@
 - [이것이 자바다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481475&orderClick=LEa&Kc=)
 - [Do it 자바 프로그래밍 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030195&orderClick=LEa&Kc=)
 
+### Kotlin 프로그래밍
+- [Do it 코틀린 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030843&orderClick=LEA&Kc=)
+- [깡쌤의 코틀리 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710272&orderClick=LAG&Kc=)
+
 # 5. 프로그래밍 개발 환경
 ### iterm2 터미널
 - [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)

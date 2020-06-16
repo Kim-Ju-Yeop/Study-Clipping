@@ -76,8 +76,9 @@
 - [iTerm2와 zsh로 깔끔한 Mac 터미널 환경 만들기](https://tutorialpost.apptilus.com/code/posts/tools/mac-cli-with-iterm2-zsh/)
 
 ### Apache Tomcat 설치
-- [Mac OS Apache Tomcat 설치, 아파치 톰캣 실행 방법](https://whitepaek.tistory.com/12)
 - [[IntelliJ] 아파치 톰캣 설정 및 JSP 실행 방법](https://whitepaek.tistory.com/13)
+- [인텔리J에서 JSP 수정시 자동 리로드 되도록 설정하기](https://dololak.tistory.com/575)
+- [Mac OS Apache Tomcat 설치, 아파치 톰캣 실행 방법](https://whitepaek.tistory.com/12)
 
 # 6. 유용한 기술 블로그
 ### 개인 블로그

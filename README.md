@@ -92,6 +92,7 @@
 - [VictoryWoo's Blog](https://woovictory.github.io)
 - [범석의 안드로이드 메모장](https://beomseok95.tistory.com/)
 - [막내의 막무가내 프로그래밍](https://youngest-programming.tistory.com)
+- [WHITEPAEK Tech Docs](https://whitepaek.tistory.com)
 - [코끼리를 냉장고에 넣는 방법](https://dololak.tistory.com)
 
 ### IT 기업 블로그

@@ -75,6 +75,10 @@
 - [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)
 - [iTerm2와 zsh로 깔끔한 Mac 터미널 환경 만들기](https://tutorialpost.apptilus.com/code/posts/tools/mac-cli-with-iterm2-zsh/)
 
+### Apache Tomcat 설치
+- [Mac OS Apache Tomcat 설치, 아파치 톰캣 실행 방법](https://whitepaek.tistory.com/12)
+- [[IntelliJ] 아파치 톰캣 설정 및 JSP 실행 방법](https://whitepaek.tistory.com/13)
+
 # 6. 유용한 기술 블로그
 ### 개인 블로그
 - [코드뭉치](https://poqw.github.io)

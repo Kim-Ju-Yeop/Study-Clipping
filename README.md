@@ -77,8 +77,10 @@
 
 ### Apache Tomcat 설치
 - [[IntelliJ] 아파치 톰캣 설정 및 JSP 실행 방법](https://whitepaek.tistory.com/13)
+- [이클립스 실행하여 톰캣등록 후, JSP 화면 띄워보기](https://mongodev.tistory.com/30)
 - [인텔리J에서 JSP 수정시 자동 리로드 되도록 설정하기](https://dololak.tistory.com/575)
 - [Mac OS Apache Tomcat 설치, 아파치 톰캣 실행 방법](https://whitepaek.tistory.com/12)
+- [[IntelliJ] JSP 기본 객체 "Cannot resolve method ~" 에러 해결 방법](https://whitepaek.tistory.com/27)
 
 # 6. 유용한 기술 블로그
 ### 개인 블로그

@@ -76,6 +76,7 @@
 - [iTerm2와 zsh로 깔끔한 Mac 터미널 환경 만들기](https://tutorialpost.apptilus.com/code/posts/tools/mac-cli-with-iterm2-zsh/)
 
 ### Apache Tomcat 설치
+- [Intellij JSP - MySQL 연동](https://mdwgti16.github.io/jsp/mysql/#)
 - [[IntelliJ] 아파치 톰캣 설정 및 JSP 실행 방법](https://whitepaek.tistory.com/13)
 - [이클립스 실행하여 톰캣등록 후, JSP 화면 띄워보기](https://mongodev.tistory.com/30)
 - [인텔리J에서 JSP 수정시 자동 리로드 되도록 설정하기](https://dololak.tistory.com/575)

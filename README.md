@@ -107,5 +107,4 @@
 - [로켓펀치 기술 블로그](https://blog.rocketpunch.com)
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr)
 - [우아한형제들 기술 블로그](https://woowabros.github.io)
-- [Netflix TechBlog](https://netflixtechblog.com)
 - [LINE ENGINERRING Blog](https://engineering.linecorp.com/ko/blog/)

@@ -70,6 +70,10 @@
 - [Do it 코틀린 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030843&orderClick=LEA&Kc=)
 - [깡쌤의 코틀리 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710272&orderClick=LAG&Kc=)
 
+### Android 프로그래밍
+- [Do it 안드로이드 앱 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163031413&orderClick=LEa&Kc=)
+- [이것이 안드로이드다 with 코틀린](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242971&orderClick=LAG&Kc=)
+
 # 5. 프로그래밍 개발 환경
 ### iterm2 터미널
 - [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)

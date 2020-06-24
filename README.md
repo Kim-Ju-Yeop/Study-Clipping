@@ -103,6 +103,7 @@
 - [코끼리를 냉장고에 넣는 방법](https://dololak.tistory.com)
 
 ### IT 기업 블로그
+- [토스 공식 블로그](https://blog.toss.im/)
 - [당근마켓 팀블로그](https://medium.com/daangn)
 - [NAVER D2 블로그](https://d2.naver.com/home)
 - [Kakao Tech Blog](https://tech.kakao.com/blog/)

@@ -87,7 +87,12 @@
 - [Mac OS Apache Tomcat 설치, 아파치 톰캣 실행 방법](https://whitepaek.tistory.com/12)
 - [[IntelliJ] JSP 기본 객체 "Cannot resolve method ~" 에러 해결 방법](https://whitepaek.tistory.com/27)
 
-# 6. 유용한 기술 블로그
+# 6. 프로그래밍 방식
+### 짝 프로그래밍
+- [코드 품질 향상을 위한 짝 프로그래밍 소개](https://www.slideshare.net/slidesam/ss-85972255)
+- [[Agile] 짝 프로그래밍(Pair Programming)이란](https://gmlwjd9405.github.io/2018/07/02/agile-pair-programming.html)
+
+# 7. 유용한 기술 블로그
 ### 개인 블로그
 - [코드뭉치](https://poqw.github.io)
 - [코딩팩토리](https://coding-factory.tistory.com/271)

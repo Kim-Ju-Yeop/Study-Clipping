@@ -15,6 +15,11 @@
 - [[DI] Dependency Injection 이란](https://medium.com/@jang.wangsu/di-dependency-injection-이란-1b12fdefec4f)
 - [DI 첫 번째, Dependency Injection에 관하여](https://poqw.github.io/di_1/)
 
+### 객체지향 프로그래밍
+- [객체지향 프로그래밍이란?](https://webclub.tistory.com/155)
+- [절차지향과 객체지향의 차이에 대해서](https://brownbears.tistory.com/407)
+- [객체지향 프로그래밍이 뭔가요? (영상 자료)](https://www.youtube.com/watch?v=vrhIxBWSJ04)
+
 # 2. 프로그래밍 라이브러리
 ### Butter Knife
 - [Butter Knife (View Inject)](https://gun0912.tistory.com/2)

@@ -57,6 +57,10 @@
 - [Neumorphism in Android](https://medium.com/@fornewid/neumorphism-in-android-3a298e0337b0)
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
 
+### In-app updates
+- [인앱 업데이트 지원](https://developer.android.com/guide/app-bundle/in-app-updates?hl=eu)
+- [안드로이드 인 앱 업데이트 사용기](https://black-jin0427.tistory.com/212)
+
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture
 - [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)

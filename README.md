@@ -61,6 +61,10 @@
 - [인앱 업데이트 지원](https://developer.android.com/guide/app-bundle/in-app-updates?hl=eu)
 - [안드로이드 인 앱 업데이트 사용기](https://black-jin0427.tistory.com/212)
 
+### Navigation Component
+- [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
+- [Android Navigation Component 튜토리얼](https://medium.com/harrythegreat/android-navigation-component-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1-5ac6ac081643)
+
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture
 - [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)

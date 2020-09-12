@@ -109,7 +109,12 @@
 - [코드 품질 향상을 위한 짝 프로그래밍 소개](https://www.slideshare.net/slidesam/ss-85972255)
 - [[Agile] 짝 프로그래밍(Pair Programming)이란](https://gmlwjd9405.github.io/2018/07/02/agile-pair-programming.html)
 
-# 7. 유용한 기술 블로그
+# 7. 개발자 관련
+### 안드로이드 개발 로드맵
+- [Naver Tech Concert 안드로이드 개발자 로드맵](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
+- [안드로이드 개발자 로드맵 강의 후기 및 정리](https://jhpop.tistory.com/121)
+
+# 8. 유용한 기술 블로그
 ### 개인 블로그
 - [코드뭉치](https://poqw.github.io)
 - [코딩팩토리](https://coding-factory.tistory.com/271)

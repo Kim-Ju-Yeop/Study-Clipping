@@ -65,6 +65,9 @@
 - [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
 - [Android Navigation Component 튜토리얼](https://medium.com/harrythegreat/android-navigation-component-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1-5ac6ac081643)
 
+### Material CardView
+- [카드뷰 Elevation 속성 부여하기](https://thepassion.tistory.com/319)
+
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture
 - [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
@@ -111,8 +114,8 @@
 
 # 7. 개발자 관련
 ### 안드로이드 개발 로드맵
-- [Naver Tech Concert 안드로이드 개발자 로드맵](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
-- [안드로이드 개발자 로드맵 강의 후기 및 정리](https://jhpop.tistory.com/121)
+- [Naver Tech Concert 안드로이드 개발 로드맵](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
+- [안드로이드 개발 로드맵 강의 후기 및 정리](https://jhpop.tistory.com/121)
 
 # 8. 유용한 기술 블로그
 ### 개인 블로그

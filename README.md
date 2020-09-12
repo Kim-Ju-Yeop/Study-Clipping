@@ -20,6 +20,10 @@
 - [절차지향과 객체지향의 차이에 대해서](https://brownbears.tistory.com/407)
 - [객체지향 프로그래밍이 뭔가요? (영상 자료)](https://www.youtube.com/watch?v=vrhIxBWSJ04)
 
+### 안드로이드 개발 로드맵
+- [Naver Tech Concert 안드로이드 개발 로드맵](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
+- [안드로이드 개발 로드맵 강의 후기 및 정리](https://jhpop.tistory.com/121)
+
 # 2. 프로그래밍 라이브러리
 ### Butter Knife
 - [Butter Knife (View Inject)](https://gun0912.tistory.com/2)
@@ -68,6 +72,16 @@
 ### Material CardView
 - [카드뷰 Elevation 속성 부여하기](https://thepassion.tistory.com/319)
 
+### Spring Boot
+- [Spring Boot 활용해 Todo API 만들기](https://devtimothy.tistory.com/98?category=770917)
+
+### Rx Java2
+- [리액티브 프로그래밍과 Rx Java](https://taeiim.tistory.com/entry/RxJava2-1-리액티브-프로그래밍과-RxJava)
+- [Observable 클래스에 대해서](https://taeiim.tistory.com/entry/RxJava2-2-Observable-Single-Maybe-뜨거운차가운-Observable-팩토리함수)
+- [리액티브 연산자 기초](https://taeiim.tistory.com/entry/RxJava2-3-리액티브-연산자-기초-map-filter-reduce)
+- [리액티브 연산자 활용](https://taeiim.tistory.com/entry/RxJava2-4-리액티브-연산자-활용-생성-변환-결합-조건-연산자)
+- [스케줄러 개념](https://taeiim.tistory.com/entry/RxJava2-5-스케줄러)
+
 # 3. 프로그래밍 아키텍처
 ### Clean Architecture
 - [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
@@ -112,12 +126,7 @@
 - [코드 품질 향상을 위한 짝 프로그래밍 소개](https://www.slideshare.net/slidesam/ss-85972255)
 - [[Agile] 짝 프로그래밍(Pair Programming)이란](https://gmlwjd9405.github.io/2018/07/02/agile-pair-programming.html)
 
-# 7. 개발자 관련
-### 안드로이드 개발 로드맵
-- [Naver Tech Concert 안드로이드 개발 로드맵](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
-- [안드로이드 개발 로드맵 강의 후기 및 정리](https://jhpop.tistory.com/121)
-
-# 8. 유용한 기술 블로그
+# 7. 유용한 기술 블로그
 ### 개인 블로그
 - [코드뭉치](https://poqw.github.io)
 - [코딩팩토리](https://coding-factory.tistory.com/271)

@@ -35,7 +35,7 @@
 - [안드로이드 개발 로드맵 강의 후기 및 정리](https://jhpop.tistory.com/121)
 
 
-### 2. 프로그래밍 라이브러리
+### <br/>2. 프로그래밍 라이브러리
 #### Butter Knife
 - [Butter Knife (View Inject)](https://gun0912.tistory.com/2)
 - [라이브러리 버터나이프 기본적인 사용법](https://roqkfwk.tistory.com/16)
@@ -94,7 +94,7 @@
 - [리액티브 프로그래밍과 Rx Java](https://taeiim.tistory.com/entry/RxJava2-1-리액티브-프로그래밍과-RxJava)
 
 
-### 3. 프로그래밍 아키텍처
+### <br/>3. 프로그래밍 아키텍처
 #### Clean Architecture
 - [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 - [안드로이드에 Clean Architecture 적용하기](https://academy.realm.io/kr/posts/clean-architecture-in-android/)
@@ -104,7 +104,7 @@
 - [[Android] MVVM & 안드로이드 아키텍처 컴포넌트 시작하기](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
 
 
-### 4. 프로그래밍 도서
+### <br/>4. 프로그래밍 도서
 #### C 프로그래밍
 - [Do it C언어 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187370703&orderClick=LEa&Kc=)
 - [윤성우의 열혈 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788996094050&orderClick=LEa&Kc=)
@@ -122,7 +122,7 @@
 - [이것이 안드로이드다 with 코틀린](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242971&orderClick=LAG&Kc=)
 
 
-### 5. 프로그래밍 개발 환경
+### <br/>5. 프로그래밍 개발 환경
 #### iterm2 터미널
 - [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)
 - [iTerm2와 zsh로 깔끔한 Mac 터미널 환경 만들기](https://tutorialpost.apptilus.com/code/posts/tools/mac-cli-with-iterm2-zsh/)
@@ -136,13 +136,13 @@
 - [[IntelliJ] JSP 기본 객체 "Cannot resolve method ~" 에러 해결 방법](https://whitepaek.tistory.com/27)
 
 
-### 6. 프로그래밍 방식
+### <br/>6. 프로그래밍 방식
 #### 짝 프로그래밍
 - [코드 품질 향상을 위한 짝 프로그래밍 소개](https://www.slideshare.net/slidesam/ss-85972255)
 - [[Agile] 짝 프로그래밍(Pair Programming)이란](https://gmlwjd9405.github.io/2018/07/02/agile-pair-programming.html)
 
 
-### 7. 유용한 기술 블로그
+### <br/>7. 유용한 기술 블로그
 #### 개인 블로그
 - [코드뭉치](https://poqw.github.io)
 - [코딩팩토리](https://coding-factory.tistory.com/271)

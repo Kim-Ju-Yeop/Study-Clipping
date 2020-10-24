@@ -141,6 +141,10 @@
 - [코드 품질 향상을 위한 짝 프로그래밍 소개](https://www.slideshare.net/slidesam/ss-85972255)
 - [[Agile] 짝 프로그래밍(Pair Programming)이란](https://gmlwjd9405.github.io/2018/07/02/agile-pair-programming.html)
 
+#### TDD 테스트 주도 개발
+- [TDD란?](https://bit.ly/2ZR2UNr)
+- [TDD(Test-Driven Development) 소개](https://bit.ly/2ZQ4Zcq)
+
 
 ### <br/>7. 유용한 기술 블로그
 #### 개인 블로그

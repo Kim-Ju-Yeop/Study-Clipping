@@ -93,6 +93,10 @@
 - [Observable 클래스에 대해서](https://taeiim.tistory.com/entry/RxJava2-2-Observable-Single-Maybe-뜨거운차가운-Observable-팩토리함수)
 - [리액티브 프로그래밍과 Rx Java](https://taeiim.tistory.com/entry/RxJava2-1-리액티브-프로그래밍과-RxJava)
 
+#### Hilt
+- [Android Hilt 사용하기](https://ghs-dev.tistory.com/16)
+- [Dagger Hilt로 안드로이드 의존성 주입 시작하기](https://hyperconnect.github.io/2020/07/28/android-dagger-hilt.html)
+
 
 ### <br/>3. 프로그래밍 아키텍처
 #### Clean Architecture

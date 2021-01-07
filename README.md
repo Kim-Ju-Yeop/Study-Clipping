@@ -173,3 +173,4 @@
 - [클래스101 기술 블로그](https://class101.dev)
 - [우아한형제들 기술 블로그](https://woowabros.github.io)
 - [LINE ENGINERRING Blog](https://engineering.linecorp.com/ko/blog/)
+- [HYPERCONNECT 기술 블로그](https://hyperconnect.github.io)

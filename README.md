@@ -10,102 +10,102 @@
 
 ### 1. 프로그래밍 관련
 #### REST API
-- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
-- [REST API를 위한 HTTP 상태 코드](https://mygumi.tistory.com/230)
+- [REST API 제대로 알고 사용하기](https://bit.ly/3nOnNSo)
+- [REST API를 위한 HTTP 상태 코드](https://bit.ly/38QAPuB)
 
 #### 동기와 비동기
-- [동기와 비동기의 개념과 차이](https://private.tistory.com/24)
-- [동기식 처리 모델 vs 비동기식 처리 모델](https://webclub.tistory.com/605)
+- [동기와 비동기의 개념과 차이](https://bit.ly/39wV2og)
+- [동기식 처리 모델 vs 비동기식 처리 모델](https://bit.ly/2LD1r9t)
 
 #### 프레임워크와 라이브러리
-- [Framework vs Library](https://webclub.tistory.com/458)
-- [프레임워크와 라이브러리의 차이점](https://okky.kr/article/549983)
+- [Framework vs Library](https://bit.ly/3qqrzTP)
+- [프레임워크와 라이브러리의 차이점](https://bit.ly/3nMFf9N)
 
 #### Dependency Injection
-- [[DI] Dependency Injection 이란](https://medium.com/@jang.wangsu/di-dependency-injection-이란-1b12fdefec4f)
-- [DI 첫 번째, Dependency Injection에 관하여](https://poqw.github.io/di_1/)
+- [[DI] Dependency Injection 이란](https://bit.ly/3oRha30)
+- [DI 첫 번째, Dependency Injection에 관하여](https://bit.ly/3nT1JpM)
 
 #### 객체지향 프로그래밍
-- [객체지향 프로그래밍이란?](https://webclub.tistory.com/155)
-- [절차지향과 객체지향의 차이에 대해서](https://brownbears.tistory.com/407)
-- [객체지향 프로그래밍이 뭔가요? (영상 자료)](https://www.youtube.com/watch?v=vrhIxBWSJ04)
+- [객체지향 프로그래밍이란?](https://bit.ly/38M2Nr8)
+- [절차지향과 객체지향의 차이에 대해서](https://bit.ly/3iqlRP6)
+- [객체지향 프로그래밍이 뭔가요? (영상 자료)](https://bit.ly/39Dl9tz)
 
 #### 안드로이드 개발 로드맵
-- [Naver Tech Concert 안드로이드 개발 로드맵](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
-- [안드로이드 개발 로드맵 강의 후기 및 정리](https://jhpop.tistory.com/121)
+- [Naver Tech Concert 안드로이드 개발 로드맵](https://bit.ly/3qrqdIw)
+- [안드로이드 개발 로드맵 강의 후기 및 정리](https://bit.ly/3stM2sE)
 
 
 ### <br/>2. 프로그래밍 라이브러리
 #### Butter Knife
-- [Butter Knife (View Inject)](https://gun0912.tistory.com/2)
-- [라이브러리 버터나이프 기본적인 사용법](https://roqkfwk.tistory.com/16)
+- [Butter Knife (View Inject)](https://bit.ly/3sulHuz)
+- [라이브러리 버터나이프 기본적인 사용법](https://bit.ly/3bIqfr8)
 
 #### DataBinding
-- [Goodbye 버터나이프 Hello 데이터바인딩](https://gun0912.tistory.com/71)
-- [[안드로이드/Android] 데이터 바인딩 사용하기[1/2]](https://superwony.tistory.com/42)
+- [Goodbye 버터나이프 Hello 데이터바인딩](https://bit.ly/3oQPT0P)
+- [[안드로이드/Android] 데이터 바인딩 사용하기[1/2]](https://bit.ly/2NbTKrh)
 
 #### ViewModel & LiveData
-- [[Android] LiveData + ViewModel 사용해보기](https://junghun0.github.io/2019/05/22/android-viewmodel/)
-- [Android Architecture Component - ViewModel + LiveData + DataBinding](https://youtu.be/Y-uPcwBEEV4)
+- [[Android] LiveData + ViewModel 사용해보기](https://bit.ly/3swuSKP)
+- [Android Architecture Component - ViewModel + LiveData + DataBinding](https://bit.ly/2LGjfAt)
 
 #### TedPermission
-- [TedPermission 깃허브 오픈소스](https://github.com/ParkSangGwon/TedPermission)
+- [TedPermission 깃허브 오픈소스](https://bit.ly/3nMkET7)
 - [TedPermission(마시멜로우 권한체크)](https://gun0912.tistory.com/61)
 
 #### Dagger2
-- [Dagger2를 알아보자 – 기본편](https://www.charlezz.com/?p=1259)
-- [[Android, Dagger2] DI 기본 개념과 Dagger2 사용 예제](https://black-jin0427.tistory.com/104)
+- [Dagger2를 알아보자 – 기본편](https://bit.ly/2XKcqjN)
+- [[Android, Dagger2] DI 기본 개념과 Dagger2 사용 예제](https://bit.ly/39FTiJc)
 
 #### Retrofit2
-- [Retrofit2 정리하기](https://jungwoon.github.io/android/2019/07/11/Retrofit/)
-- [안드로이드 Retrofit2 사용 예제. GET, POST, PUT, PATCH, DELETE](https://altongmon.tistory.com/745)
+- [Retrofit2 정리하기](https://bit.ly/39FPRm3)
+- [안드로이드 Retrofit2 사용 예제. GET, POST, PUT, PATCH, DELETE](https://bit.ly/35KRJbM)
 
 #### Koin
-- [Koin 정리하기](https://jungwoon.github.io/android/2019/08/21/Koin/)
-- [[안드로이드] koin part.1](https://woovictory.github.io/2019/05/08/Android-koin/)
+- [Koin 정리하기](https://bit.ly/2Na2IoZ)
+- [[안드로이드] koin part.1](https://bit.ly/35L5jMw)
 
 #### Room
-- [[안드로이드] ROOM 라이브러리 사용하기 , 코루틴](https://namget.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ROOM-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4)
-- [[Android Architecture Component] Room 라이브러리 사용하기](https://black-jin0427.tistory.com/53)
+- [[안드로이드] ROOM 라이브러리 사용하기 , 코루틴](https://bit.ly/38Mm8IH)
+- [[Android Architecture Component] Room 라이브러리 사용하기](https://bit.ly/39G53iS)
 
 #### Neumorphism
-- [Neumorphism in Android](https://medium.com/@fornewid/neumorphism-in-android-3a298e0337b0)
-- [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
+- [Neumorphism in Android](https://bit.ly/35KU1Ii)
+- [Neumorphism in user interfaces](https://bit.ly/3oOjgRq)
 
 #### In-app updates
-- [인앱 업데이트 지원](https://developer.android.com/guide/app-bundle/in-app-updates?hl=eu)
-- [안드로이드 인 앱 업데이트 사용기](https://black-jin0427.tistory.com/212)
+- [인앱 업데이트 지원](https://bit.ly/2N4GWCR)
+- [안드로이드 인 앱 업데이트 사용기](https://bit.ly/2LAowJO)
 
 #### Navigation Component
-- [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
-- [Android Navigation Component 튜토리얼](https://medium.com/harrythegreat/android-navigation-component-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1-5ac6ac081643)
+- [Navigation Component](https://bit.ly/39Af1lT)
+- [Android Navigation Component 튜토리얼](https://bit.ly/2XHrC18)
 
 #### Material CardView
-- [카드뷰 Elevation 속성 부여하기](https://thepassion.tistory.com/319)
+- [카드뷰 Elevation 속성 부여하기](https://bit.ly/3sunKi6)
 
 #### Spring Boot
-- [Spring Boot 활용해 Todo API 만들기](https://devtimothy.tistory.com/98?category=770917)
+- [Spring Boot 활용해 Todo API 만들기](https://bit.ly/3igM2rg)
 
 #### Rx Java2
-- [스케줄러 개념](https://taeiim.tistory.com/entry/RxJava2-5-스케줄러)
-- [리액티브 연산자 활용](https://taeiim.tistory.com/entry/RxJava2-4-리액티브-연산자-활용-생성-변환-결합-조건-연산자)
-- [리액티브 연산자 기초](https://taeiim.tistory.com/entry/RxJava2-3-리액티브-연산자-기초-map-filter-reduce)
-- [Observable 클래스에 대해서](https://taeiim.tistory.com/entry/RxJava2-2-Observable-Single-Maybe-뜨거운차가운-Observable-팩토리함수)
+- [스케줄러 개념](https://bit.ly/3ipmg4b)
+- [리액티브 연산자 활용](https://bit.ly/2Kl1oP5)
+- [리액티브 연산자 기초](https://bit.ly/3oRs2Oi)
+- [Observable 클래스에 대해서](https://bit.ly/3qut0Rh)
 - [리액티브 프로그래밍과 Rx Java](https://taeiim.tistory.com/entry/RxJava2-1-리액티브-프로그래밍과-RxJava)
 
 #### Hilt
-- [Android Hilt 사용하기](https://ghs-dev.tistory.com/16)
-- [Dagger Hilt로 안드로이드 의존성 주입 시작하기](https://hyperconnect.github.io/2020/07/28/android-dagger-hilt.html)
+- [Android Hilt 사용하기](https://bit.ly/3qr4sIU)
+- [Dagger Hilt로 안드로이드 의존성 주입 시작하기](https://bit.ly/35HKyB9)
 
 
 ### <br/>3. 프로그래밍 아키텍처
 #### Clean Architecture
-- [클린 아키텍처와 함께하는 배민앱](https://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
-- [안드로이드에 Clean Architecture 적용하기](https://academy.realm.io/kr/posts/clean-architecture-in-android/)
+- [클린 아키텍처와 함께하는 배민앱](https://bit.ly/2LG9xhs)
+- [안드로이드에 Clean Architecture 적용하기](https://bit.ly/2Kq6r0I)
 
 #### MVVM Architecture
-- [안드로이드 MVVM 디자인 패턴](https://beomseok95.tistory.com/131)
-- [[Android] MVVM & 안드로이드 아키텍처 컴포넌트 시작하기](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
+- [안드로이드 MVVM 디자인 패턴](https://bit.ly/39zKAMN)
+- [[Android] MVVM & 안드로이드 아키텍처 컴포넌트 시작하기](https://bit.ly/39Bsrht)
 
 
 ### <br/>4. 프로그래밍 도서
@@ -114,7 +114,7 @@
 - [윤성우의 열혈 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788996094050&orderClick=LEa&Kc=)
 
 #### Java 프로그래밍
-- [이것이 자바다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481475&orderClick=LEa&Kc=)
+- [이것이 자바다](https://bit.ly/3oVSerq)
 - [Do it 자바 프로그래밍 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030195&orderClick=LEa&Kc=)
 
 #### Kotlin 프로그래밍

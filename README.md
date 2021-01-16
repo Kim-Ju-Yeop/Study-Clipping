@@ -91,7 +91,7 @@
 - [리액티브 연산자 활용](https://bit.ly/2Kl1oP5)
 - [리액티브 연산자 기초](https://bit.ly/3oRs2Oi)
 - [Observable 클래스에 대해서](https://bit.ly/3qut0Rh)
-- [리액티브 프로그래밍과 Rx Java](https://taeiim.tistory.com/entry/RxJava2-1-리액티브-프로그래밍과-RxJava)
+- [리액티브 프로그래밍과 Rx Java](http://bit.ly/3oQSWpN)
 
 #### Hilt
 - [Android Hilt 사용하기](https://bit.ly/3qr4sIU)
@@ -110,40 +110,40 @@
 
 ### <br/>4. 프로그래밍 도서
 #### C 프로그래밍
-- [Do it C언어 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187370703&orderClick=LEa&Kc=)
-- [윤성우의 열혈 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788996094050&orderClick=LEa&Kc=)
+- [Do it C언어 입문](https://bit.ly/3sxCdK6)
+- [윤성우의 열혈 C 프로그래밍](https://bit.ly/3ijd5SH)
 
 #### Java 프로그래밍
 - [이것이 자바다](https://bit.ly/3oVSerq)
-- [Do it 자바 프로그래밍 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030195&orderClick=LEa&Kc=)
+- [Do it 자바 프로그래밍 입문](https://bit.ly/35LnZeY)
 
 #### Kotlin 프로그래밍
-- [Do it 코틀린 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163030843&orderClick=LEA&Kc=)
-- [깡쌤의 코틀리 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710272&orderClick=LAG&Kc=)
+- [Do it 코틀린 프로그래밍](https://bit.ly/3qvag45)
+- [깡쌤의 코틀리 프로그래밍](https://bit.ly/3bKn1n9)
 
 #### Android 프로그래밍
-- [Do it 안드로이드 앱 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163031413&orderClick=LEa&Kc=)
-- [이것이 안드로이드다 with 코틀린](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242971&orderClick=LAG&Kc=)
+- [Do it 안드로이드 앱 프로그래밍](https://bit.ly/2LSFtiG)
+- [이것이 안드로이드다 with 코틀린](https://bit.ly/3oPTE6E)
 
 
 ### <br/>5. 프로그래밍 개발 환경
 #### iterm2 터미널
-- [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)
-- [iTerm2와 zsh로 깔끔한 Mac 터미널 환경 만들기](https://tutorialpost.apptilus.com/code/posts/tools/mac-cli-with-iterm2-zsh/)
+- [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](http://bit.ly/2Na637v)
+- [iTerm2와 zsh로 깔끔한 Mac 터미널 환경 만들기](http://bit.ly/3oOmDYA)
 
 #### Apache Tomcat 설치
-- [Intellij JSP - MySQL 연동](https://mdwgti16.github.io/jsp/mysql/#)
-- [[IntelliJ] 아파치 톰캣 설정 및 JSP 실행 방법](https://whitepaek.tistory.com/13)
-- [이클립스 실행하여 톰캣등록 후, JSP 화면 띄워보기](https://mongodev.tistory.com/30)
-- [인텔리J에서 JSP 수정시 자동 리로드 되도록 설정하기](https://dololak.tistory.com/575)
-- [Mac OS Apache Tomcat 설치, 아파치 톰캣 실행 방법](https://whitepaek.tistory.com/12)
-- [[IntelliJ] JSP 기본 객체 "Cannot resolve method ~" 에러 해결 방법](https://whitepaek.tistory.com/27)
+- [Intellij JSP - MySQL 연동](http://bit.ly/35L8vaY)
+- [[IntelliJ] 아파치 톰캣 설정 및 JSP 실행 방법](https://bit.ly/39Dotox)
+- [이클립스 실행하여 톰캣등록 후, JSP 화면 띄워보기](http://bit.ly/38MleMk)
+- [인텔리J에서 JSP 수정시 자동 리로드 되도록 설정하기](http://bit.ly/2LZVN1a)
+- [Mac OS Apache Tomcat 설치, 아파치 톰캣 실행 방법](http://bit.ly/3quw8fZ)
+- [[IntelliJ] JSP 기본 객체 "Cannot resolve method ~" 에러 해결 방법](http://bit.ly/3qkIdE8)
 
 
 ### <br/>6. 프로그래밍 방식
 #### 짝 프로그래밍
-- [코드 품질 향상을 위한 짝 프로그래밍 소개](https://www.slideshare.net/slidesam/ss-85972255)
-- [[Agile] 짝 프로그래밍(Pair Programming)이란](https://gmlwjd9405.github.io/2018/07/02/agile-pair-programming.html)
+- [코드 품질 향상을 위한 짝 프로그래밍 소개](http://bit.ly/3bWLTbB)
+- [[Agile] 짝 프로그래밍(Pair Programming)이란](http://bit.ly/35KWOBg)
 
 #### TDD 테스트 주도 개발
 - [TDD란?](https://bit.ly/2ZR2UNr)
